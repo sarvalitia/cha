@@ -1,0 +1,172 @@
+html {
+  height: 100%;
+  margin: 0px;
+   padding: 0px;
+   overflow-x: hidden;
+}
+body{
+  height: 100%;
+  margin: 0px;
+
+}
+
+
+
+.home-1{
+  height: 100%;
+}
+
+
+
+
+
+.cha-main{
+height: 100%;
+}
+
+.cha-main-image{
+width: 100%;
+ background-image: linear-gradient(to  top,rgba(0, 0, 0, 0.7),rgba(255,20,147,0.3)), url(1.jpeg);
+ height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+.cha-main-textbox{
+  padding: 3%;
+  text-align: center;
+background-color: #dddd;
+  color: #000;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  backface-visibility: hidden;
+
+}
+
+
+.cha-main-textbox-1{
+padding: 3%;
+border: double;
+}
+
+.cha-main-text-b{
+padding:  5%;
+  font-size: 50px;
+  font-weight: 300;
+  letter-spacing: 3px;
+
+}
+.cha-main-text-s{
+  font-size: 25px;
+  font-weight: 300;
+  letter-spacing: 3px;
+
+}
+
+.para{
+  font-size: 18px;
+line-height: 1.8;
+  font-weight: 300;
+width: 100%;
+padding:10% 3%;
+}
+
+
+.icon{
+margin-top: 5%;
+}
+
+
+.p-i{
+
+margin-top: 3%;
+width: 70%;
+}
+
+.p-h{
+padding: 5%;
+font-weight: 400;
+font-size: 17px;
+}
+
+.home-3{
+  padding:  10% 1%;
+  text-align: center;
+
+}
+
+
+.home-2{
+  padding:  5% 1%;
+  text-align: center;
+}
+
+.home-3{
+  height: 100%;
+}
+
+.b-2{
+  height: 100%;
+}
+
+.b-img{
+  width: 100%;
+   background-image: linear-gradient(to  top,rgba(0, 0, 0, 0.7),rgba(255,20,147,0.3)), url(4.jpg);
+   height: 150%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+position: relative;
+}
+
+.b-2-textbox{
+  padding: 3%;
+  text-align: center;
+background-color: #dddd;
+  color: #000;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  backface-visibility: hidden;
+
+}
+
+
+.p-i-2{
+  margin-top: 3%;
+
+  width:57%;
+}
+
+
+.space{
+  margin:10% 0%;
+}
+
+.spot{
+  background-color: #000;
+  margin: 5%;
+  padding: 7%;
+
+  text-align: center;
+}
+
+.spot-t{
+  margin-top: 3%;
+  font-weight: 300;
+  font-size: 20px;
+  color: #fff;
+}
+
+.spot-i{
+border-radius: 0.5rem;
+width: 30%;}
+
+.spot-c{
+  margin: 5%;
+}
